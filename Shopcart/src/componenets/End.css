@@ -1,0 +1,106 @@
+.end{
+    position: relative;
+}
+.footimg{
+    width: 1440px;
+    height: 520px;
+    top: 105px;
+    position: absolute;
+}
+.nwl{
+    width: 385px;
+    height: 52px;
+    top: 187px;
+    left: 103px;
+    font-family:' Syne';
+    font-size: 26px;
+    font-weight: 600px;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.5);
+}
+.getnws{
+    width: 337px;
+    height: 52px;
+    top: 230px;
+    left: 103px;
+    font-family: 'Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+
+}
+.git{
+    width: 1159px;
+    height: 236px;
+    top: 259px;
+    left: 90px;
+    border: 1px;
+    font-family: 'Syne';
+    font-size: 135px;
+    font-weight: 800px;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+}
+input{
+    outline: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.name{
+    width: 558px;
+    top: 193px;
+    left: 616px;
+    position: absolute;
+    font-family:' Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.email{
+    width: 558px;
+    top: 249px;
+    left: 616px;
+    position: absolute;
+    font-family:' Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.msg{
+    width: 558px;
+    top: 314px;
+    left: 616px;
+    position: absolute;
+    font-family:' Work Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;   
+}
+.send{
+    width: 181px;
+    height: 181px;
+    top: 319px;
+    left: 1162px;
+    position: absolute;
+}
+.snd{
+    cursor: pointer;
+}

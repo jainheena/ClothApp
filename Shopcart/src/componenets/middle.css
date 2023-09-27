@@ -1,0 +1,89 @@
+.np{
+    width: 689px;
+    height: 151px;
+    top: 152px;
+    left: 83px;
+    font-family: 'Syne';
+    font-size: 55px;
+    font-weight:600px;
+    line-height: 108px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0,0,0,1);
+    position:relative;
+    display: inline;
+}
+.sline{
+    width: 659px;
+    height: 22px;
+    top: 930px;
+    left: 67px;
+    border: 1px;
+    position: absolute;
+}
+
+@media screen and (min-width:388px) {
+    .aab{
+        display: block;
+    }
+}
+li{
+    list-style: none;
+}
+.aprl{
+    width: 68px;
+    height: 21px;
+    top: 970px;
+    left: 91px;
+    font-family: 'Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+}
+.acs{
+    width: 158px;
+    height: 31px;
+    top: 1033px;
+    left: 91px;
+    font-family: 'Syne';
+    font-size: 26px;
+    font-weight: 600px;
+    line-height: 31.2px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+}
+.bst{
+    width: 104px;
+    height: 21px;
+    top: 1094px;
+    left: 91px;
+    font-family: 'Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21.11px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+}
+.off{
+    width: 77px;
+    height: 21px;
+    top: 1138px;
+    left: 91px;
+    font-family:'Work Sans';
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    display: inline;
+}

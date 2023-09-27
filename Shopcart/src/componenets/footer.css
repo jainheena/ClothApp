@@ -1,0 +1,22 @@
+.footer{
+    width: 1455px;
+    height: 66px;
+    top: 559px;
+    left: -9px;
+    position: relative;
+    background: rgba(0, 0, 0, 1);
+}
+.copyryt{
+    width: 237px;
+    height: 18px;
+    top: 15px;
+    left: 601px;
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255,255,255,1);
+    position: absolute;
+}

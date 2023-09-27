@@ -1,0 +1,108 @@
+.front{
+    width: 1440px;
+    height: 42px;
+    background: rgba(26, 26, 26, 1);;
+    position:relative;
+    display:block;
+}
+.truck{
+    width: 21px;
+    height: 12.9px;
+    top: 15px;
+    left: 90px;
+    border: 0.4px;
+    border: 0.4px solid rgba(25, 25, 25, 1);
+    position: absolute;
+}
+.fd{
+    width: 76px;
+    height: 18px;
+    margin-top: 13px;
+    left: 118px;
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(98, 98, 98, 1);
+    position: absolute;
+}
+.vLine{
+    top: 11px;
+    left: 208px;
+    position: absolute;
+}
+.rpol{
+    width: 109px;
+    height: 15px;
+    margin-top: 13px;
+    left: 222px;
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    color: rgba(98, 98, 98, 1);
+}
+a{
+    text-decoration: none;
+}
+.login{
+    width: 27px;
+    height: 15px;
+    margin-top: 14px;
+    margin-left: 1164px;
+    font-family: 'Poppins';
+    font-size: 10px;
+    font-weight: 400px;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(98, 98, 98, 1);
+    position: absolute;
+}
+.folow{
+    width: 47px;
+    height: 15px;
+    margin-top: 14px;
+    left: 1226px;
+    font-family: 'Poppins';
+    font-size: 10px;
+    font-weight: 400px;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    color: rgba(98, 98, 98, 1);
+}
+.fb{
+    width: 4.5px;
+    height: 7.6px;
+    margin-top: 17px;
+    margin-left: 1287px;
+    position: absolute;
+}
+.linkedin{
+    width: 8px;
+    height: 7.64px;
+    margin-top: 17px;
+    margin-left: 1303px;
+    position: absolute;
+}
+.twtr{
+    position: absolute;
+    width: 7.6px;
+    height: 5.6px;
+    margin-top: 18px;
+    margin-left: 1323px;
+}
+.ig{
+    width: 8px;
+    height: 8px;
+    margin-top: 17px;
+    margin-left: 1342px;
+    position: absolute;
+}

@@ -1,0 +1,58 @@
+/* CardSlider.css */
+
+.card-slider {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    align-items: right;
+    justify-content:end;
+    padding: 10px;
+    position: relative;
+    width: 1140px;
+    min-width: 100%;
+  }
+  
+  .cards-container {
+    display: flex;
+    gap: 20px;
+    transition: transform 0.3s ease-in-out;
+    width: auto;
+  }
+  
+  .card {
+    margin-top: 130px;
+    flex: 0 0 auto;
+    max-width: 310px;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    scroll-behavior: smooth;
+  }
+  
+  .slider-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    font-size: 20px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+  }
+  
+  .left-arrow {
+    width: 55px;
+    top: 100px;
+    left: 1100px;
+    border: 1px;   
+  }
+  
+  .right-arrow {
+    width: 55px;
+    top: 100px;
+    left: 1200px;
+    border: 1px;
+  }
+  
+ 
