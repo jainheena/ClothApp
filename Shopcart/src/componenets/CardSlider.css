@@ -18,6 +18,7 @@
     gap: 20px;
     transition: transform 0.3s ease-in-out;
     width: auto;
+
   }
   
   .card {
@@ -27,6 +28,7 @@
     text-align: center;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     scroll-behavior: smooth;
+    padding-left: 60px;
   }
   
   .slider-button {
